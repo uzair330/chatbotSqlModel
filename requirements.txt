@@ -1,0 +1,9 @@
+fastapi==0.100.1
+uvicorn[standard]==0.23.2
+python-jose[cryptography]
+passlib[bcrypt]
+multipath
+pydantic[email]
+python-dotenv
+sqlalchemy
+psycopg2-binary
